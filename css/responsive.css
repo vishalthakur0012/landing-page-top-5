@@ -1,0 +1,159 @@
+@media only screen and (max-width:768px) {
+    a.navbar-brand img {
+        max-width: 240px;
+    }
+
+    header.navbar-area .navbar .others-options {
+        position: absolute;
+        top: 34px;
+        right: 85px;
+    }
+
+    header.navbar-area .navbar .navbar-nav {
+        margin-top: 10px !important;
+        border-top: 1px solid #eee;
+        padding-top: 0px;
+        padding-right: 15px;
+        padding-left: 5px;
+    }
+
+    header.navbar-area .navbar .navbar-nav .nav-item {
+        padding-top: 6px;
+        padding-bottom: 6px;
+    }
+
+    header.navbar-area .navbar .collapse .navbar-nav .nav-item a {
+
+        margin-left: 0px;
+    }
+
+    .sidebar-modal .sidebar-modal-inner {
+        width: 100%;
+    }
+
+    .main-banner {
+        height: 100%;
+        padding-top: 130px;
+        padding-bottom: 130px;
+        text-align: center;
+    }
+
+    .main-banner-content {
+        text-align: center;
+    }
+
+    .main-banner-content h1 {
+        font-size: 35px;
+        margin: 0 0 10px;
+    }
+
+    .main-banner-content .banner-btn {
+        margin-top: 25px;
+    }
+
+    .default-btn-one {
+        padding: 8px 20px;
+        font-size: 14px;
+    }
+
+    .banner-image {
+        margin-top: 35px;
+    }
+
+    .main-banner .banner-image img:first-child,
+    .main-banner .banner-image img:nth-child(10),
+    .main-banner .banner-image img:nth-child(11),
+    .main-banner .banner-image img:nth-child(12),
+    .main-banner .banner-image img:nth-child(13),
+    .main-banner .banner-image img:nth-child(14),
+    .main-banner .banner-image img:nth-child(2),
+    .main-banner .banner-image img:nth-child(3),
+    .main-banner .banner-image img:nth-child(4),
+    .main-banner .banner-image img:nth-child(5),
+    .main-banner .banner-image img:nth-child(6),
+    .main-banner .banner-image img:nth-child(7),
+    .main-banner .banner-image img:nth-child(8),
+    .main-banner .banner-image img:nth-child(9) {
+        display: none;
+    }
+
+    .main-banner .banner-image img:last-child {
+        display: block;
+        position: relative;
+        max-width: 400px;
+        width: 100%;
+        margin: auto;
+    }
+
+    .banner-bg-text {
+        font-size: 100px;
+        left: 0;
+        text-align: center;
+    }
+
+    .shape-img1,
+    .shape-img10,
+    .shape-img2,
+    .shape-img3,
+    .shape-img4,
+    .shape-img5,
+    .shape-img6,
+    .shape-img7,
+    .shape-img8,
+    .shape-img9 {
+        display: none;
+    }
+
+    .tab.boosting-list-tab .nav li.nav-item .nav-link {
+        width: 170px;
+    }
+
+    .tab.boosting-list-tab .nav li.nav-item {
+        margin-bottom: 20px;
+    }
+
+
+    .swiper-wrapper .swiper-slide {
+        width: 366px !important;
+    }
+
+
+
+    .copyright-area {
+        text-align: center;
+    }
+
+    .back-to-top .top {
+        right: 25px;
+    }
+
+    .analysis-image {
+        margin-bottom: 30px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
